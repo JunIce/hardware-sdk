@@ -5,7 +5,7 @@
 ## install
 
 ```bash
-npm install --save @rhonjoe/nvr
+npm install --save @rhonjoe/hardware-sdk
 ```
 
 ## usage
